@@ -39,18 +39,10 @@
 }
 
 .about-page,
-.contact-page {
-    .text-zone {
-        position: absolute;
-        left: 10%;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 35%;
-        vertical-align: middle;
-        display: table-cell;
-        max-height: 90%;
+.contact-page,
+.portfolio-page {
 
-        h1 {
+    h1 {
             font-size: 70px;
             font-family: 'Coolvetica';
             color: #EF3F31;
@@ -82,9 +74,9 @@
                 margin-left: 20px;
                 opacity: 0.6;
             }
-        }
+    }
 
-        p {
+    p {
             font-style: 18px;
             color: #fff;
             font-family: sans-serif;
@@ -104,7 +96,17 @@
             &:nth-of-type(3) {
                 animation-delay: 1.3s;
             }
-        }
+    }
+
+    .text-zone {
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 35%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;  
     }
 
     .text-animate-hover {

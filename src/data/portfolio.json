@@ -1,0 +1,27 @@
+{
+
+    "portfolio": [
+
+        {
+            "cover": "/portfolio/1/mastercamp.png",
+            "title": "MasterCamp",
+            "description": "HTML, CSS, JS",
+            "url": "https://mastercampesports.com.br/"
+        },
+        {
+            "cover": "/portfolio/2/plataforma.png",
+            "title": "Plataforma MasterCamp",
+            "description": "HTML, CSS, JS, PHP",
+            "url": "https://plataformamastercamp.com.br/"
+        },
+        {
+            "cover": "/portfolio/3/Weather.png",
+            "title": "Weather Desktop",
+            "description": "HTML, CSS, JS, API",
+            "url": "https://mastercampesports.com.br/"
+        }
+
+    ]
+
+
+}

@@ -1,5 +1,5 @@
 .nav-bar {
-    background: #141414;
+    background: #000000;
     width: 100px;
     height: 100%;
     position: absolute;
@@ -48,7 +48,7 @@
             }
 
             &:hover {
-                color: #EF3F31;
+                color: #FFF;
 
                 svg {
                     opacity: 0;
@@ -61,8 +61,8 @@
 
             &:after {
                 content: '';
-                font-size: 14px;
-                letter-spacing: 4px;
+                font-size: 12px;
+                letter-spacing: 3px;
                 position: absolute;
                 bottom: 0;
                 display: block;
@@ -91,9 +91,15 @@
             }
         }
 
+        a.portfolio-link {
+            &:after {
+                content: 'PORTFOLIO';
+            }
+        }
+
         a.active {
             svg {
-                color: #EF3F31;
+                color: #FFF;
             }
         }
     }
@@ -116,7 +122,7 @@
                 line-height: 22px;
 
                 &:hover svg {
-                    color: #EF3F31;
+                    color: #FFF;
                 }
             }
         }
