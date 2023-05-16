@@ -11,11 +11,12 @@
 
     h1 {
         color: #FFF;
-        font-size: 80px;
+        font-size: 53px;
+        line-height: 53px;
         margin: 0;
         font-family: 'Coolvetica';
         font-weight: 500;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
 
         &::before {
             content: '<h1>';
@@ -80,5 +81,41 @@
         color: #000000;
 
        }
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .tags,
+    .home-page h1::before,
+    .home-page h1::after {
+        display: none;
+    }
+
+    .home-page {
+        .text-zone {
+            position: initial;
+            width: 100%;
+            transform: none;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .flat-button {
+            float: none;
+            display: block;
+            margin: 20px auto 0 auto;
+            width: 180px;
+        }
+
+        .logo-container {
+            position: relative;
+            width: 300px;
+            height: auto;
+            top: 0px;
+            right: 0;
+            box-sizing: border-box;
+            margin: auto;
+            left: 0;
+        }
     }
 }

@@ -34,7 +34,7 @@ const Logo = () => {
 
   return (
     <div className="logo-container" ref={bgRef}>
-      <img className="solid-logo" ref={solidLogoRef} src={LogoS} alt="S" />
+      <img className="solid-logo" ref={solidLogoRef} src={LogoS} alt="R" />
     </div>
   )
 }

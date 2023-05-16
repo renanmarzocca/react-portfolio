@@ -43,7 +43,7 @@
 .portfolio-page {
 
     h1 {
-            font-size: 70px;
+            font-size: 60px;
             font-family: 'Coolvetica';
             color: #EF3F31;
             font-weight: 500;
@@ -112,6 +112,59 @@
     .text-animate-hover {
         &:hover {
             color: #fff;
+        }
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .page {
+        position: initial;
+    }
+
+    .container {
+        position: initial;
+        height: auto;
+        min-height: auto;
+
+        &.about-page,
+        &.contact-page,
+        &.portfolio-page {
+
+            .text-zone {
+                position: initial;
+                transform: none;
+                width: 100%;
+                display: block;
+                padding: 20px;
+                box-sizing: border-box;
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .page {
+        position: initial;
+    }
+
+    .container {
+        position: initial;
+        height: auto;
+        min-height: auto;
+
+        &.about-page,
+        &.contact-page,
+        &.portfolio-page {
+
+            .text-zone {
+                position: initial;
+                transform: none;
+                width: 100%;
+                display: block;
+                padding: 20px;
+                box-sizing: border-box;
+            }
         }
     }
 }

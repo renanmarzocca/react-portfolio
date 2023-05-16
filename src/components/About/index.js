@@ -28,7 +28,6 @@ const About = () => {
                     />
                 </h1>
                 <p>Lorem ipsum dolor sit amet. Non pariatur enim non enim rerum et omnis alias. Et molestias galisum ut assumenda dolorum sit sunt nulla. Vel dolorum saepe cum itaque saepe qui architecto doloribus aut ratione repudiandae eum molestiae quia qui tempore delectus. Ut error repudiandae eum quia totam et excepturi praesentium ea dolorem nemo ut quia voluptate!</p>
-                <p>Aut iste possimus nam temporibus quia ut corrupti quia ex ullam harum ut eaque repudiandae. Vel architecto recusandae est galisum corporis vel provident dolores eum molestiae sint? Eos maiores numquam qui eligendi magni est ipsum laudantium et fuga placeat et dolorum iste.</p>
                 <p>Eos atque enim sit officiis voluptas sed excepturi rerum. At impedit itaque sit nihil internos id dolor dignissimos et dolor suscipit vel voluptatem doloremque!</p>
             </div>
 

@@ -10,7 +10,7 @@
         },
         {
             "cover": "/portfolio/2/plataforma.png",
-            "title": "Plataforma MasterCamp",
+            "title": "Plataforma",
             "description": "HTML, CSS, JS, PHP",
             "url": "https://plataformamastercamp.com.br/"
         },
@@ -18,8 +18,15 @@
             "cover": "/portfolio/3/Weather.png",
             "title": "Weather Desktop",
             "description": "HTML, CSS, JS, API",
-            "url": "https://mastercampesports.com.br/"
+            "url": "https://climapi.online/"
+        },
+        {
+            "cover": "/portfolio/4/dev.jpg",
+            "title": "Game Fix",
+            "description": "HTML, CSS, JS, PHP",
+            "url": "https://development.com.br/"
         }
+        
 
     ]
 
