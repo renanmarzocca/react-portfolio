@@ -27,8 +27,12 @@ const About = () => {
                         idx={15}
                     />
                 </h1>
-                <p>Lorem ipsum dolor sit amet. Non pariatur enim non enim rerum et omnis alias. Et molestias galisum ut assumenda dolorum sit sunt nulla. Vel dolorum saepe cum itaque saepe qui architecto doloribus aut ratione repudiandae eum molestiae quia qui tempore delectus. Ut error repudiandae eum quia totam et excepturi praesentium ea dolorem nemo ut quia voluptate!</p>
-                <p>Eos atque enim sit officiis voluptas sed excepturi rerum. At impedit itaque sit nihil internos id dolor dignissimos et dolor suscipit vel voluptatem doloremque!</p>
+                <p>Welcome to my portfolio!</p>
+                    <p>My name is Renan and I'm 25 years old, I've been studying technology since I was 12, I'm a computer technician by IFSP - CAPIVARI.
+                    I have knowledge in hardware, experience assembling computers and now I'm starting a new journey of web development.
+                    I found a great universe of development and my focus is to become a front end developer.
+                    I have knowledge in HTML, CSS, JS, and React.</p>
+                    <p>I hope you like my projects and call me for a new job together.</p>
             </div>
 
             <div className='stage-cube-cont'>
